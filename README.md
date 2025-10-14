@@ -5,7 +5,7 @@
 I am developing turnkey AI solutions for business automation. My expertise is the creation of intelligent assistants, parsing systems and chatbots that solve specific tasks and integrate into the customer's work processes. I use the entire arsenal: from no-code for speed to Python programming for complex tasks.
 *****
 
-#Технологический стек
+##Технологический стек
 
 AI & Промпт-инжиниринг
 - Продвинутый промптинг: RAG, Few-Shot, Chain-of-Thought
