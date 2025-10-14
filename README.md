@@ -42,7 +42,7 @@ ML & Computer Vision
 - Playwright, BeautifulSoup4, curl-cffi
 - Telegram-боты: pyTelegramBotAPI, Telethon
 
-Полная версия портфолио с кейсами доступна в репозиториях
+✨Полная версия портфолио с кейсами доступна в репозиториях✨
 <!--
 **Alintual/Alintual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
