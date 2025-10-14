@@ -4,6 +4,7 @@
 **Alintual/Alintual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am developing turnkey AI solutions for business automation. My expertise is the creation of intelligent assistants, parsing systems and chatbots that solve specific tasks and integrate into the customer's work processes. I use the entire arsenal: from no-code for speed to Python programming for complex tasks.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
