@@ -1,7 +1,7 @@
 ## Час добрый! 👋
 *****
 Разрабатываю AI-решения «под ключ» для автоматизации бизнеса. Моя экспертиза — это создание интеллектуальных ассистентов, парсинг-систем и чат-ботов, которые решают конкретные задачи и интегрируются в рабочие процессы заказчика. Использую весь арсенал: от no-code для скорости до программирования на Python для сложных задач.
-I am developing turnkey AI solutions for business automation. My expertise is the creation of intelligent assistants, parsing systems and chatbots that solve specific tasks and integrate into the customer's work processes. I use the entire arsenal: from no-code for speed to Python programming for complex tasks.
+## I am developing turnkey AI solutions for business automation. My expertise is the creation of intelligent assistants, parsing systems and chatbots that solve specific tasks and integrate into the customer's work processes. I use the entire arsenal: from no-code for speed to Python programming for complex tasks.
 *****
 <!--
 **Alintual/Alintual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
