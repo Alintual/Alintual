@@ -3,11 +3,13 @@
 ▶ РАЗРАБОТКА И ИНТЕГРАЦИЯ AI-РЕШЕНИЙ
 
 Разрабатываю AI-решения «под ключ» для автоматизации бизнеса. Моя экспертиза — это создание интеллектуальных ассистентов, парсинг-систем и чат-ботов, которые решают конкретные задачи и интегрируются в рабочие процессы заказчика. Использую весь арсенал: от no-code для скорости до программирования на Python для сложных задач.
+
 I am developing turnkey AI solutions for business automation. My expertise is the creation of intelligent assistants, parsing systems and chatbots that solve specific tasks and integrate into the customer's work processes. I use the entire arsenal: from no-code for speed to Python programming for complex tasks.
 
 ▶ СПЕЦИАЛИЗИРОВАННЫЙ КОНСАЛТИНГ, АУДИТ И ОПТИМИЗАЦИЯ
 
 Помогаю бизнесу максимально эффективно и безопасно интегрировать AI-технологии. Проводжу комплексный аудит процессов, разрабатываю дорожные карты/пошаговые планы внедрения, оцениваю риски, просчитываю бюджет, подбираю инструменты и пр. и в результате, рассчитываю потенциал сокращения затрат и развития бизнеса за счет целевой AI-автоматизации.
+
 I help businesses integrate AI technologies as efficiently and safely as possible. I conduct a comprehensive audit of processes, develop roadmaps/step-by-step implementation plans, assess risks, calculate budgets, select tools, etc., and as a result, I calculate the potential for cost reduction and business development through targeted AI automation.
 *****
 
